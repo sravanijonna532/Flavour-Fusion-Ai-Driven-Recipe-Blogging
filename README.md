@@ -2,7 +2,7 @@ Flavour Fusion: AI-Driven Recipe Blogging represents a cutting-edge shift in the
 
 What is "Flavour Fusion"?
 
-In this context, flavor fusion is the art of merging elements from different culinary traditions into a single dish, such as Korean fried chicken tacos or butter chicken lasagna. It aims to create novel taste profiles by combining, for example, Eastern spices with Western techniques. 
+Flavor fusion is the art of merging elements from different culinary traditions into a single dish, such as Korean fried chicken tacos or butter chicken lasagna. It aims to create novel taste profiles by combining, for example, Eastern spices with Western techniques. 
  
  The AI-Driven Approach to Blogging
  
@@ -15,4 +15,12 @@ Personalized Recommendations: AI analyzes user preferences, dietary restrictions
 Project Template Link
 https://drive.google.com/file/d/1vqGKo3XTrqA3AMK0wnOWBDz3-5bY5vpA/view?usp=sharing
 
+Developing Flavour Fusion by using these:-
 
+1.Frontend development (Streamlit / Flask / Web UI)
+2.Backend logic implementation
+3.Gemini API integration
+4.Database integration (if used)
+5.Modular code structure
+6.Error handling
+7.API key security
