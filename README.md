@@ -12,8 +12,9 @@ AI-Generated Recipes: Tools like ChatGPT are used to quickly create unique recip
 Image-to-Recipe Generation: Specific AI models (using Convolutional Neural Networks - CNN) can analyze an uploaded photo of a dish and instantly generate a recipe, ingredient list, and instructions.
 Personalized Recommendations: AI analyzes user preferences, dietary restrictions, and available ingredients to recommend tailored recipes.
 
-Project Template Link
-https://drive.google.com/file/d/1vqGKo3XTrqA3AMK0wnOWBDz3-5bY5vpA/view?usp=sharing
+Project Template Link:-
+
+https://drive.google.com/drive/folders/1DTfO_QIJv0VaSxCDYE7zwqBM7XHGnEZo?usp=sharing
 
 Developing Flavour Fusion by using these:-
 
