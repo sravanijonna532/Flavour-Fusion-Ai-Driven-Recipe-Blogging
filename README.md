@@ -19,9 +19,15 @@ https://drive.google.com/drive/folders/1DTfO_QIJv0VaSxCDYE7zwqBM7XHGnEZo?usp=sha
 Developing Flavour Fusion by using these:-
 
 1.Frontend development (Streamlit / Flask / Web UI)
+
 2.Backend logic implementation
+
 3.Gemini API integration
+
 4.Database integration (if used)
+
 5.Modular code structure
+
 6.Error handling
+
 7.API key security
